@@ -160,7 +160,7 @@ figure {
 }
 
 .container-card {
-  margin-top: 10rem;
+  margin: 10rem 0;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
@@ -187,7 +187,7 @@ figure {
 .grid-container {
   padding: 2rem;
   box-shadow: 0 0 3px black;
-  margin-top: 10rem;
+  margin: 10rem 0;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
