@@ -245,10 +245,11 @@ figure {
 
 .lists > li {
   padding: 1rem;
+  font-size: 2rem;
 }
-
+/* 
 @media only screen and (max-width: 690) {
   .lists > li {
     font-size: 8px;
   }
-}
+} */
