@@ -218,6 +218,11 @@ figure {
 .text3 {
   grid-area: text3;
 }
+.text1,
+.text2,
+.text3 {
+  width: 80%;
+}
 
 .img2 {
   grid-area: img2;
@@ -240,4 +245,10 @@ figure {
 
 .lists > li {
   padding: 1rem;
+}
+
+@media only screen and (max-width: 690) {
+  .lists > li {
+    font-size: 8px;
+  }
 }
